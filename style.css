@@ -1,0 +1,40 @@
+body {
+  padding: 10px;
+  margin: 0px;
+  border: 2px solid #ff0000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: #f0e68c;
+  text-align: center;
+  background-image: url('./img/pattern.webp');
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+footer {
+  text-align: center;
+  padding-top: 10px;
+}
+.mediumspringgreen {
+  background-color: #00fa9a;
+}
+
+.lightcoral {
+  background-color: #f08080;
+}
+
+.skyblue {
+  background-color: #87ceeb;
+}
+
+.blue {
+  color:#0000ff;
+}
