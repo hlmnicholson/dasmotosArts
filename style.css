@@ -23,15 +23,16 @@ footer {
   text-align: center;
   padding-top: 10px;
 }
-.mediumspringgreen {
+
+.brushes {
   background-color: #00fa9a;
 }
 
-.lightcoral {
+.frames {
   background-color: #f08080;
 }
 
-.skyblue {
+.paint {
   background-color: #87ceeb;
 }
 
