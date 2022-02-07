@@ -6,17 +6,12 @@ The design spec can be found here: <https://content.codecademy.com/courses/freel
 
 ## Table of Contents
 
-* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-
-## General Information
-
-* TBC
 
 ## Technologies Used
 
@@ -32,7 +27,7 @@ The design spec can be found here: <https://content.codecademy.com/courses/freel
 
 ## Project Status
 
-Still in development
+MVP completed according to requirements
 
 ## Room for Improvement
 
